@@ -17,7 +17,7 @@ pip install requests
 git clone https://github.com/XxGixerGDxX12/Cripto_Precio/
 ```
 ```
-cd Cripto-Precio
+cd Cripto_Precio
 ```
 
 ```
